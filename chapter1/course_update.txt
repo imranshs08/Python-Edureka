@@ -1,4 +1,4 @@
 Name			Yes/No		Description
-PPT			No
+PPT			No		Start from page No 26 in PPT DOU : 08-07-2022
 Code Assignement	No
 All Completed		No
